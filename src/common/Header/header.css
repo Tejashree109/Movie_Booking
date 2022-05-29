@@ -1,0 +1,15 @@
+.header {
+    background-color: #222;
+    height: 36px;
+    padding: 8px 8px 32px 16px;
+}
+.header img {
+    background-color: #ff7f7f;
+    height: 32px;
+}
+.header span h3{
+    background-color: #ff9999;
+    padding: 8px 8px 8px 8px;
+    text-align: center;
+    font-size: 1rem;
+}
